@@ -1,0 +1,299 @@
+.star-header1 {
+    color: rgb(250, 244, 244);
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 10px;            /*Playing with the position of*/
+    top: 10px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header2 {
+    color: rgb(253, 251, 251);
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1280px;            /*Playing with the position of*/
+    top: 300px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header3 {
+    color: rgb(245, 241, 241);
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 90px;            /*Playing with the position of*/
+    top: 120px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header4 {
+    color: rgb(252, 252, 252);
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 9px;            /*Playing with the position of*/
+    top: 280px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header5 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 830px;            /*Playing with the position of*/
+    top: 240px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header6 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1480px;            /*Playing with the position of*/
+    top: 0px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header7 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 150px;            /*Playing with the position of*/
+    top: 260px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header8 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1450px;            /*Playing with the position of*/
+    top: 200px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header9 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 240px;            /*Playing with the position of*/
+    top: 50px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header10 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1240px;            /*Playing with the position of*/
+    top: 20px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+
+.star-header11 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 300px;            /*Playing with the position of*/
+    top: 250px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header12 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1100px;            /*Playing with the position of*/
+    top: 30px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header13 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 360px;            /*Playing with the position of*/
+    top: 130px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header14 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 960px;            /*Playing with the position of*/
+    top: 10px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header15 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 1100px;            /*Playing with the position of*/
+    top: 160px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+
+.star-header16 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 450px;            /*Playing with the position of*/
+    top: 10px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header17 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 480px;            /*Playing with the position of*/
+    top: 325px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+}
+
+.star-header18 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 840px;            /*Playing with the position of*/
+    top: 70px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header19 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 540px;            /*Playing with the position of*/
+    top: 200px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+  
+.star-header20 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 750px;            /*Playing with the position of*/
+    top: 10px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+
+.star-header21 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 600px;            /*Playing with the position of*/
+    top: 50px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}
+
+.star-header22 {
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 690px;            /*Playing with the position of*/
+    top: 150px;             /*the bulb on the web page*/
+    display: inline-block;
+    text-shadow: 9px 9px 900px white, 450px 50px 900px white; 
+
+}

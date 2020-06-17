@@ -1,0 +1,140 @@
+.App {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App2 {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;  
+}
+
+.fab {
+  /* margin: 0px; */
+  top: 40px;
+  left: 10px;
+  /* bottom: 20px;
+  left: auto; */
+  position: fixed;
+};
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.bulb-header {
+  min-height: 100vh;
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  left: 0px;            /*Playing with the position of*/
+  top: 50px;             /*the bulb on the web page*/
+  display: inline-block;
+  text-shadow: 9px 9px 900px white, 450px 50px 900px white;
+}
+
+.final {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  position: absolute;
+  bottom: -500px;
+  left: 40%;
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.right {
+  position: absolute;
+  right: 50px;
+}
+
+.left {
+  position: absolute;
+  left: 180px;
+  top: 20px;
+}
+
+.button {
+  position: absolute;
+  top: 100px;
+  right: 100px;
+  font-size: 30px;
+  display: inline-block;
+  border-radius: 25px;
+}
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.middle {
+  align-items: center;
+}
+
+
+body{
+  background: linear-gradient(to top, #f0eded, #e9eb9f, #54aed8ad); /*#06003f */
+  height: 100vh;
+}
+
+
+.body2 {
+  background: linear-gradient(to top, #0db884, #6b55cead, #06003f);
+  height: 100vh;
+}
+
+.bulb i {        
+  position: absolute;
+  left: 500px;            /*Playing with the position of*/
+  top: 400px;             /*the bulb on the web page*/
+  color: black;         /*color of the logo*/
+}
+
+.lit{
+  color: white;
+  /*text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;*/
+}
+
+.dark{
+  color: black;
+  text-shadow: none
+}
+
+.shadow {
+  -webkit-filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+  filter: drop-shadow( 3px 3px 2px rgba(0, 0, 0, .7));
+  /* Similar syntax to box-shadow */
+}
+
+/* 
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
