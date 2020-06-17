@@ -142,7 +142,7 @@ function Room() {
         <img src="https://pluspng.com/img-png/mountain-range-png-hd-mountain-png-mountain-png-png-hd-mountain-range-1900.png" alt="landscape" style={{ height:1000, width:1520, position:"absolute", bottom:-500}} />
       </div>
       
-      <p className="final">MADE WITH 💖 BY FATEH GOLANI</p>
+      <p className="final">MADE WITH <span role="img" aria-label="love">💖</span> BY FATEH GOLANI</p>
 
     </div> 
   );

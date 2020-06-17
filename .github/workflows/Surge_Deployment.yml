@@ -38,5 +38,5 @@ jobs:
       run: npm install --global surge
       
     - name: Deploying to Surge
-      run: surge ./build fateh-react-appa3.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      run: surge ./build fateh-react-landscape.surge.sh --token ${{ secrets.SURGE_TOKEN }}
     
